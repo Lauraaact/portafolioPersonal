@@ -8,16 +8,13 @@ Ingeniera biomédica bilingüe (Ingles/español) con inclinación hacia el desar
 
 ## 🚀 Habilidades
 
-- **Lenguajes de Programación**: [Visual Basic.NET / C++ / Python / JavaScript / TypeScript]
-- **Frameworks & Librerías**: [Express.js/ Angular / Node.js]
-- **Herramientas & Tecnologías**: [ Git]
-- **Bases de Datos**: [ MongoDB ] 
+- **Lenguajes de Programación**: Visual Basic.NET / C++ / Python / JavaScript / TypeScript
+- **Frameworks & Librerías**: Express.js/ Angular / Node.js
+- **Herramientas & Tecnologías**: Git
+- **Bases de Datos**: MongoDB
 
 ## 📫 Contacto 
 
 Puedes contactarme a través de los siguientes medios:
 - **Correo electrónico**: lauracorredort99@gmail.com
 - **LinkedIn**: www.linkedin.com/in/lauracorredort
-
-
-# portafolioPersonal
