@@ -1,0 +1,71 @@
+/* --- IMPORTACIONES --- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* --- VARIABLES --- */
+:root{
+    --darkColor: #325c6e;
+    --mediumColor: #7ABBBE;
+    --lightColor: #F0FAF7;
+    --enfasisColor: #FFD3D6;
+    --mainTypography: "Montserrat", sans-serif;
+}
+/* --- CONDICIONES INICIALES --- */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var(--mainTypography);
+}
+/* --- HEADER --- */
+header{
+    width: 100vw;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+/* Image header */
+.imgLogo{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--lightColor);
+}
+header img{
+    height: 60%;
+}
+/* Nav bar */
+.navBar{
+    background-color: var(--darkColor);
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navBar ul{
+    display: flex;
+    gap: 5vw;
+    list-style: none;
+    color: var(--lightColor);
+}
+/* --- MAIN --- */
+main{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    padding-top: 120px;
+}
+/* Section 1 */
+.section1{
+    width: 100vw;
+    height: 460px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.section1 img{
+    height: 100%;
+}
